@@ -1,0 +1,41 @@
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.categories img{
+    width: 33%;
+}
+.bg-first-color{
+    background-color: #ffa500;
+    border-radius: .8em;
+    color: #ffffff;
+}
+.bg-second-color{
+    background-color: #da70d6;
+    border-radius: .8em;
+    color: #ffffff;
+}
+.bg-third-color{
+    background-color: #0000ff;
+    border-radius: .8em;
+    color: #ffffff;
+}
+.panda-card{
+    border: 0;
+}
+.panda-footer{
+    border: 0;
+    background-color:#ffffff;
+}
+.lets-bg{
+    background-color: #fceae8;
+}
+.btn-pink{
+    background-color: #ff458f;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+}
+.price-color{
+    color: #ff458f;
+}
