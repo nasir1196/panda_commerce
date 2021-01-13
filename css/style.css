@@ -1,7 +1,11 @@
+/* start slider section  */
 .panda-slide .carousel-item{
     background-color: #fceae8;
     border-radius: 1em;
 }
+/* closing slider section  */
+
+/* start glossary section  */
 .categories img{
     width: 33%;
 }
@@ -20,6 +24,9 @@
     border-radius: .8em;
     color: #ffffff;
 }
+/* closing glossary section  */
+
+/* start all card section  */
 .panda-card{
     border: 0;
 }
