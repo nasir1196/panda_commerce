@@ -1,3 +1,3 @@
 # panda-commerce 
-(https://nafim96.github.io/panda_commerce/index.html)[Panda-Commerce Live site]
+[Panda-Commerce Live site](https://nafim96.github.io/panda_commerce/index.html)
 
